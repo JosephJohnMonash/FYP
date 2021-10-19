@@ -1,0 +1,310 @@
+,ORIGSA2_Code,Active,Car,Proportion,Class,Typology
+1,206011105,52,56,0.481481481,2,Typical suburban area
+2,206011106,34,24,0.586206897,4,Urban core districts
+3,206011107,8,16,0.333333333,1,Urban mixed use and residential area
+4,206011108,35,74,0.321100917,2,Typical suburban area
+5,206011109,1,19,0.05,3,Spacious residential area
+6,206021110,23,50,0.315068493,1,Urban mixed use and residential area
+7,206021111,17,50,0.253731343,4,Urban core districts
+8,206021112,4,47,0.078431373,3,Spacious residential area
+9,206031113,24,52,0.315789474,1,Urban mixed use and residential area
+10,206031114,17,101,0.144067797,1,Urban mixed use and residential area
+11,206031115,8,15,0.347826087,1,Urban mixed use and residential area
+12,206031116,32,51,0.385542169,1,Urban mixed use and residential area
+13,206041117,16,28,0.363636364,4,Urban core districts
+14,206041118,77,32,0.706422018,4,Urban core districts
+15,206041119,46,37,0.554216867,4,Urban core districts
+16,206041120,1,1,0.5,0,Excluded
+17,206041121,26,31,0.456140351,4,Urban core districts
+18,206041122,354,116,0.753191489,4,Urban core districts
+19,206041123,23,24,0.489361702,4,Urban core districts
+20,206041124,33,34,0.492537313,3,Spacious residential area
+21,206041125,21,24,0.466666667,4,Urban core districts
+22,206041126,77,36,0.681415929,4,Urban core districts
+23,206041127,0,8,0,0,Excluded
+24,206051128,41,53,0.436170213,4,Urban core districts
+25,206051129,24,39,0.380952381,2,Typical suburban area
+26,206051130,18,20,0.473684211,4,Urban core districts
+27,206051131,6,26,0.1875,0,Excluded
+28,206051132,28,47,0.373333333,4,Urban core districts
+29,206051133,53,65,0.449152542,4,Urban core districts
+30,206051134,29,44,0.397260274,2,Typical suburban area
+31,206061135,7,20,0.259259259,4,Urban core districts
+32,206061136,32,44,0.421052632,4,Urban core districts
+33,206061137,21,36,0.368421053,4,Urban core districts
+34,206061138,12,36,0.25,1,Urban mixed use and residential area
+35,206071139,26,32,0.448275862,4,Urban core districts
+36,206071140,3,12,0.2,4,Urban core districts
+37,206071141,10,22,0.3125,1,Urban mixed use and residential area
+38,206071142,20,32,0.384615385,4,Urban core districts
+39,206071143,34,46,0.425,4,Urban core districts
+40,206071144,84,109,0.435233161,4,Urban core districts
+41,206071145,12,30,0.285714286,3,Spacious residential area
+42,207011146,2,24,0.076923077,1,Urban mixed use and residential area
+43,207011147,12,79,0.131868132,3,Spacious residential area
+44,207011148,15,100,0.130434783,2,Typical suburban area
+45,207011149,40,123,0.245398773,1,Urban mixed use and residential area
+46,207011150,24,73,0.24742268,3,Spacious residential area
+47,207011151,31,94,0.248,2,Typical suburban area
+48,207011152,22,63,0.258823529,3,Spacious residential area
+49,207011153,26,115,0.184397163,2,Typical suburban area
+50,207011154,9,25,0.264705882,1,Urban mixed use and residential area
+51,207011155,14,85,0.141414141,3,Spacious residential area
+52,207021156,2,62,0.03125,1,Urban mixed use and residential area
+53,207021157,5,73,0.064102564,2,Typical suburban area
+54,207021159,7,100,0.065420561,3,Spacious residential area
+55,207021160,3,46,0.06122449,2,Typical suburban area
+56,207031161,34,150,0.184782609,2,Typical suburban area
+57,207031162,8,57,0.123076923,1,Urban mixed use and residential area
+58,207031163,18,105,0.146341463,1,Urban mixed use and residential area
+59,207031164,9,42,0.176470588,3,Spacious residential area
+60,207031165,12,37,0.244897959,1,Urban mixed use and residential area
+61,207031166,6,106,0.053571429,1,Urban mixed use and residential area
+62,207031167,2,29,0.064516129,1,Urban mixed use and residential area
+63,208011168,2,33,0.057142857,2,Typical suburban area
+64,208011169,14,120,0.104477612,3,Spacious residential area
+65,208011170,5,30,0.142857143,1,Urban mixed use and residential area
+66,208011171,2,32,0.058823529,2,Typical suburban area
+67,208011172,23,117,0.164285714,3,Spacious residential area
+68,208011173,4,31,0.114285714,3,Spacious residential area
+69,208021174,7,70,0.090909091,2,Typical suburban area
+70,208021176,11,65,0.144736842,1,Urban mixed use and residential area
+71,208021177,15,82,0.154639175,3,Spacious residential area
+72,208021178,9,62,0.126760563,2,Typical suburban area
+73,208021179,10,46,0.178571429,1,Urban mixed use and residential area
+74,208021180,11,47,0.189655172,1,Urban mixed use and residential area
+75,208021181,7,26,0.212121212,1,Urban mixed use and residential area
+76,208021182,3,13,0.1875,1,Urban mixed use and residential area
+77,208031183,5,30,0.142857143,3,Spacious residential area
+78,208031184,0,22,0,0,Excluded
+79,208031185,1,35,0.027777778,1,Urban mixed use and residential area
+80,208031186,9,37,0.195652174,2,Typical suburban area
+81,208031187,4,20,0.166666667,1,Urban mixed use and residential area
+82,208031188,12,102,0.105263158,1,Urban mixed use and residential area
+83,208031189,3,17,0.15,1,Urban mixed use and residential area
+84,208031190,2,35,0.054054054,2,Typical suburban area
+85,208031191,13,83,0.135416667,3,Spacious residential area
+86,208031192,1,18,0.052631579,0,Excluded
+87,208031193,6,45,0.117647059,1,Urban mixed use and residential area
+88,208041194,23,71,0.244680851,2,Typical suburban area
+89,208041195,23,106,0.178294574,1,Urban mixed use and residential area
+90,209011196,0,12,0,1,Urban mixed use and residential area
+91,209011197,3,52,0.054545455,2,Typical suburban area
+92,209011198,3,71,0.040540541,1,Urban mixed use and residential area
+93,209011199,7,63,0.1,2,Typical suburban area
+94,209011200,3,33,0.083333333,2,Typical suburban area
+95,209011201,0,14,0,3,Spacious residential area
+96,209011202,19,78,0.195876289,2,Typical suburban area
+97,209011203,9,57,0.136363636,1,Urban mixed use and residential area
+98,209011204,0,30,0,1,Urban mixed use and residential area
+99,209021205,0,26,0,2,Typical suburban area
+100,209021207,17,64,0.209876543,3,Spacious residential area
+101,209021208,9,67,0.118421053,2,Typical suburban area
+102,209031209,23,174,0.116751269,3,Spacious residential area
+103,209031210,0,3,0,3,Spacious residential area
+104,209031211,0,3,0,5,Green wedges and hinterland
+105,209031212,0,4,0,5,Green wedges and hinterland
+106,209031213,2,12,0.142857143,3,Spacious residential area
+107,209031214,3,44,0.063829787,3,Spacious residential area
+108,209031215,9,42,0.176470588,3,Spacious residential area
+109,209041216,3,14,0.176470588,1,Urban mixed use and residential area
+110,209041217,0,16,0,1,Urban mixed use and residential area
+111,209041219,2,31,0.060606061,3,Spacious residential area
+112,209041220,6,107,0.053097345,1,Urban mixed use and residential area
+113,209041221,3,18,0.142857143,1,Urban mixed use and residential area
+114,209041223,5,73,0.064102564,3,Spacious residential area
+115,209041224,0,5,0,5,Green wedges and hinterland
+116,209041225,0,4,0,5,Green wedges and hinterland
+117,210011226,3,47,0.06,1,Urban mixed use and residential area
+118,210011227,1,11,0.083333333,0,Excluded
+119,210011228,11,88,0.111111111,2,Typical suburban area
+120,210011229,9,67,0.118421053,3,Spacious residential area
+121,210011230,0,21,0,1,Urban mixed use and residential area
+122,210011231,5,30,0.142857143,1,Urban mixed use and residential area
+123,210021232,10,105,0.086956522,5,Green wedges and hinterland
+124,210021233,0,1,0,5,Green wedges and hinterland
+125,210021234,3,24,0.111111111,5,Green wedges and hinterland
+126,210021235,0,24,0,5,Green wedges and hinterland
+127,210031236,6,39,0.133333333,1,Urban mixed use and residential area
+128,210031237,4,19,0.173913043,3,Spacious residential area
+129,210031239,9,44,0.169811321,3,Spacious residential area
+130,210041240,8,40,0.166666667,3,Spacious residential area
+131,210041241,18,85,0.174757282,3,Spacious residential area
+132,210051242,1,36,0.027027027,3,Spacious residential area
+133,210051243,2,49,0.039215686,3,Spacious residential area
+134,210051245,7,36,0.162790698,2,Typical suburban area
+135,210051246,4,44,0.083333333,3,Spacious residential area
+136,210051247,1,17,0.055555556,1,Urban mixed use and residential area
+137,210051248,2,42,0.045454545,0,Excluded
+138,210051249,5,24,0.172413793,1,Urban mixed use and residential area
+139,210051250,2,28,0.066666667,1,Urban mixed use and residential area
+140,211011251,4,55,0.06779661,2,Typical suburban area
+141,211011254,0,36,0,3,Spacious residential area
+142,211011255,0,6,0,1,Urban mixed use and residential area
+143,211011256,8,49,0.140350877,1,Urban mixed use and residential area
+144,211011257,0,8,0,1,Urban mixed use and residential area
+145,211011258,4,23,0.148148148,1,Urban mixed use and residential area
+146,211011259,2,67,0.028985507,2,Typical suburban area
+147,211011260,17,121,0.123188406,2,Typical suburban area
+148,211021261,7,34,0.170731707,3,Spacious residential area
+149,211021262,11,63,0.148648649,3,Spacious residential area
+150,211031263,2,34,0.055555556,1,Urban mixed use and residential area
+151,211031265,8,58,0.121212121,2,Typical suburban area
+152,211031266,15,152,0.089820359,3,Spacious residential area
+153,211031267,11,115,0.087301587,2,Typical suburban area
+154,211031268,1,23,0.041666667,1,Urban mixed use and residential area
+155,211041269,4,39,0.093023256,1,Urban mixed use and residential area
+156,211041270,3,40,0.069767442,2,Typical suburban area
+157,211041271,0,45,0,1,Urban mixed use and residential area
+158,211041272,7,59,0.106060606,3,Spacious residential area
+159,211041273,2,26,0.071428571,1,Urban mixed use and residential area
+160,211051274,0,23,0,2,Typical suburban area
+161,211051275,5,35,0.125,1,Urban mixed use and residential area
+162,211051276,1,27,0.035714286,5,Green wedges and hinterland
+163,211051277,0,24,0,2,Typical suburban area
+164,211051278,5,85,0.055555556,5,Green wedges and hinterland
+165,211051279,2,23,0.08,2,Typical suburban area
+166,211051280,1,5,0.166666667,3,Spacious residential area
+167,211051281,12,79,0.131868132,2,Typical suburban area
+168,211051282,4,28,0.125,5,Green wedges and hinterland
+169,211051283,2,51,0.037735849,3,Spacious residential area
+170,211051284,0,2,0,2,Typical suburban area
+171,211051285,2,33,0.057142857,5,Green wedges and hinterland
+172,211051286,3,32,0.085714286,5,Green wedges and hinterland
+173,212011287,11,78,0.123595506,3,Spacious residential area
+174,212011288,0,1,0,5,Green wedges and hinterland
+175,212011289,3,38,0.073170732,5,Green wedges and hinterland
+176,212011290,0,4,0,5,Green wedges and hinterland
+177,212011291,11,57,0.161764706,2,Typical suburban area
+178,212011292,0,76,0,3,Spacious residential area
+179,212021293,12,104,0.103448276,2,Typical suburban area
+180,212021294,1,39,0.025,1,Urban mixed use and residential area
+181,212021295,7,33,0.175,2,Typical suburban area
+182,212021297,5,60,0.076923077,1,Urban mixed use and residential area
+183,212021299,2,34,0.055555556,3,Spacious residential area
+184,212031300,2,71,0.02739726,2,Typical suburban area
+185,212031301,4,29,0.121212121,3,Spacious residential area
+186,212031302,4,46,0.08,1,Urban mixed use and residential area
+187,212031303,1,25,0.038461538,5,Green wedges and hinterland
+188,212031304,0,5,0,3,Spacious residential area
+189,212031305,2,63,0.030769231,2,Typical suburban area
+190,212031306,0,22,0,3,Spacious residential area
+191,212031308,6,33,0.153846154,5,Green wedges and hinterland
+192,212041309,2,34,0.055555556,1,Urban mixed use and residential area
+193,212041310,5,24,0.172413793,2,Typical suburban area
+194,212041311,9,212,0.040723982,1,Urban mixed use and residential area
+195,212041312,1,41,0.023809524,2,Typical suburban area
+196,212041313,3,52,0.054545455,1,Urban mixed use and residential area
+197,212041314,2,37,0.051282051,2,Typical suburban area
+198,212041316,3,26,0.103448276,1,Urban mixed use and residential area
+199,212041317,4,93,0.041237113,1,Urban mixed use and residential area
+200,212041318,1,21,0.045454545,1,Urban mixed use and residential area
+201,212051319,13,99,0.116071429,1,Urban mixed use and residential area
+202,212051320,12,116,0.09375,1,Urban mixed use and residential area
+203,212051321,10,64,0.135135135,3,Spacious residential area
+204,212051322,16,147,0.098159509,1,Urban mixed use and residential area
+205,212051323,12,63,0.16,1,Urban mixed use and residential area
+206,212051324,7,105,0.0625,1,Urban mixed use and residential area
+207,212051325,10,104,0.087719298,1,Urban mixed use and residential area
+208,212051326,3,84,0.034482759,1,Urban mixed use and residential area
+209,212051327,5,42,0.106382979,2,Typical suburban area
+210,213011328,0,4,0,1,Urban mixed use and residential area
+211,213011329,1,12,0.076923077,3,Spacious residential area
+212,213011330,7,60,0.104477612,3,Spacious residential area
+213,213011331,3,14,0.176470588,2,Typical suburban area
+214,213011332,2,32,0.058823529,1,Urban mixed use and residential area
+215,213011333,4,33,0.108108108,2,Typical suburban area
+216,213011334,1,33,0.029411765,3,Spacious residential area
+217,213011335,3,21,0.125,1,Urban mixed use and residential area
+218,213011336,16,68,0.19047619,1,Urban mixed use and residential area
+219,213011337,1,22,0.043478261,1,Urban mixed use and residential area
+220,213011338,4,48,0.076923077,1,Urban mixed use and residential area
+221,213011339,3,24,0.111111111,1,Urban mixed use and residential area
+222,213011340,7,45,0.134615385,3,Spacious residential area
+223,213021341,5,29,0.147058824,3,Spacious residential area
+224,213021342,4,42,0.086956522,1,Urban mixed use and residential area
+225,213021343,5,50,0.090909091,2,Typical suburban area
+226,213021344,2,20,0.090909091,2,Typical suburban area
+227,213021345,0,3,0,3,Spacious residential area
+228,213021346,7,43,0.14,2,Typical suburban area
+229,213031347,15,59,0.202702703,1,Urban mixed use and residential area
+230,213031348,4,48,0.076923077,4,Urban core districts
+231,213031349,3,55,0.051724138,1,Urban mixed use and residential area
+232,213031350,4,6,0.4,3,Spacious residential area
+233,213031351,6,28,0.176470588,2,Typical suburban area
+234,213031352,18,55,0.246575342,2,Typical suburban area
+235,213041353,6,33,0.153846154,3,Spacious residential area
+236,213041355,0,9,0,2,Typical suburban area
+237,213041356,14,49,0.222222222,3,Spacious residential area
+238,213041357,11,46,0.192982456,3,Spacious residential area
+239,213041358,7,118,0.056,3,Spacious residential area
+240,213041359,0,11,0,5,Green wedges and hinterland
+241,213041360,0,13,0,3,Spacious residential area
+242,213051361,6,81,0.068965517,1,Urban mixed use and residential area
+243,213051362,15,68,0.180722892,2,Typical suburban area
+244,213051363,5,62,0.074626866,3,Spacious residential area
+245,213051365,7,59,0.106060606,2,Typical suburban area
+246,213051366,6,48,0.111111111,2,Typical suburban area
+247,213051368,17,67,0.202380952,2,Typical suburban area
+248,213051369,6,45,0.117647059,3,Spacious residential area
+249,214011370,1,80,0.012345679,2,Typical suburban area
+250,214011371,8,138,0.054794521,1,Urban mixed use and residential area
+251,214011372,11,82,0.11827957,2,Typical suburban area
+252,214011373,14,106,0.116666667,2,Typical suburban area
+253,214011374,6,71,0.077922078,3,Spacious residential area
+254,214011375,2,64,0.03030303,2,Typical suburban area
+255,214011376,9,49,0.155172414,2,Typical suburban area
+256,214021377,1,44,0.022222222,2,Typical suburban area
+257,214021378,3,21,0.125,5,Green wedges and hinterland
+258,214021379,10,68,0.128205128,5,Green wedges and hinterland
+259,214021380,16,201,0.073732719,2,Typical suburban area
+260,214021381,20,79,0.202020202,3,Spacious residential area
+261,214021382,2,25,0.074074074,3,Spacious residential area
+262,214021383,13,127,0.092857143,5,Green wedges and hinterland
+263,214021384,18,119,0.131386861,2,Typical suburban area
+264,214021385,3,58,0.049180328,2,Typical suburban area
+,212021455,,,0.114378551,1,Urban mixed use and residential area
+,212021456,,,0.121243489,3,Spacious residential area
+,212031458,,,0.109848099,3,Spacious residential area
+,212031457,,,0.116619895,3,Spacious residential area
+,212021453,,,0.111250286,1,Urban mixed use and residential area
+,212021454,,,0.114133454,1,Urban mixed use and residential area
+,212041459,,,0.133022616,1,Urban mixed use and residential area
+,212041460,,,0.112023285,1,Urban mixed use and residential area
+,208021427,,,0.130772208,1,Urban mixed use and residential area
+,208021426,,,0.131154541,1,Urban mixed use and residential area
+,211011446,,,0.13141078,2,Typical suburban area
+,211011449,,,0.123087598,1,Urban mixed use and residential area
+,211011447,,,0.132668473,3,Spacious residential area
+,211011448,,,0.132026098,3,Spacious residential area
+,211031451,,,0.135579976,1,Urban mixed use and residential area
+,211031450,,,0.122350927,2,Typical suburban area
+,211031452,,,0.119592776,3,Spacious residential area
+,207021424,,,0.121764199,1,Urban mixed use and residential area
+,207021425,,,0.114115958,2,Typical suburban area
+,209021429,,,0.124064695,2,Typical suburban area
+,209021428,,,0.140806258,1,Urban mixed use and residential area
+,210031438,,,0.129617195,2,Typical suburban area
+,210031440,,,0.123388155,1,Urban mixed use and residential area
+,210031439,,,0.139379655,3,Spacious residential area
+,213041461,,,0.114780969,3,Spacious residential area
+,213041462,,,0.143148302,3,Spacious residential area
+,213041463,,,0.149125411,2,Typical suburban area
+,213051464,,,0.122514797,3,Spacious residential area
+,213051465,,,0.129387952,1,Urban mixed use and residential area
+,213051466,,,0.126355191,1,Urban mixed use and residential area
+,213051468,,,0.093716185,5,Green wedges and hinterland
+,213051467,,,0.112323697,1,Urban mixed use and residential area
+,209041430,,,0.123919939,1,Urban mixed use and residential area
+,209041431,,,0.109953198,1,Urban mixed use and residential area
+,209041432,,,0.112907512,3,Spacious residential area
+,209041433,,,0.11585953,3,Spacious residential area
+,209041434,,,0.127943152,2,Typical suburban area
+,209041435,,,0.129958114,1,Urban mixed use and residential area
+,209041436,,,0.127142783,1,Urban mixed use and residential area
+,209041437,,,0.11266195,1,Urban mixed use and residential area
+,210051443,,,0.114364304,3,Spacious residential area
+,210051441,,,0.108667327,1,Urban mixed use and residential area
+,210051442,,,0.108158463,3,Spacious residential area
+,210051444,,,0.117581228,1,Urban mixed use and residential area
+,210051445,,,0.113990492,3,Spacious residential area
